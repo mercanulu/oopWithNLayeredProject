@@ -1,6 +1,4 @@
 package oopWithNLayeredProject;
-
-
 import oopWithNLayeredProject.business.CategoryManager;
 import oopWithNLayeredProject.business.CourseManager;
 import oopWithNLayeredProject.core.logging.DatabaseLogger;

@@ -1,5 +1,4 @@
 package oopWithNLayeredProject.business;
-
 import oopWithNLayeredProject.core.logging.Logger;
 import oopWithNLayeredProject.dataAccess.CourseDao;
 

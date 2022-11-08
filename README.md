@@ -1,6 +1,7 @@
 # oopWithNLayeredProject
 Java Week3 task3
  --- Ödev 3---
+
 kodlama.io web sitesinin ana sayfasında bulunan eğitmen, kategori ve kurs bölümlerini katmanlı mimaride kodlamak istiyoruz.
 
 Önceki derste yaptığımız tekniklerle hem jdbc hem de hibernate üzerinde yazmış gibi simüle ediniz.

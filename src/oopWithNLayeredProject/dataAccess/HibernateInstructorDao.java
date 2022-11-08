@@ -1,5 +1,4 @@
 package oopWithNLayeredProject.dataAccess;
-
 import oopWithNLayeredProject.entities.Category;
 import oopWithNLayeredProject.entities.Instructor;
 

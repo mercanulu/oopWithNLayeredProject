@@ -1,6 +1,4 @@
 package oopWithNLayeredProject.dataAccess;
-
-
 import oopWithNLayeredProject.entities.Course;
 
 import java.util.List;
